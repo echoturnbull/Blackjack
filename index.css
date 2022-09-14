@@ -1,0 +1,38 @@
+  body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("felt3.jpeg");
+    height: max-content;
+    background-size:cover;
+    background-repeat: none;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+#total {
+  margin-bottom: 50px;
+}
+
+button {
+ display: block;
+ margin: auto;
+ width: 200px;
+ margin-top: 8px;
+ padding: 3px;
+ background: goldenrod;
+ font-size: 20px;
+ border-radius: 3px;
+ border: none;
+ font-weight: bold;
+ color: #016f32;
+ 
+}
